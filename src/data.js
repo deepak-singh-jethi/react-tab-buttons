@@ -1,0 +1,7 @@
+
+export const  data ={
+    introduction:"React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components, manage the application state efficiently, and seamlessly update the view when data changes, providing a declarative and efficient way to build interactive user interfaces. React is widely used in web development for building modern, single-page applications.",
+    based:" React's component-based architecture promotes modularity and reusability. Components encapsulate their own logic and UI, making it easier to develop, maintain, and scale applications. This approach also encourages a more structured and organized codebase.",
+    vertual:" React uses a Virtual DOM to efficiently update the actual DOM. Instead of directly manipulating the DOM for every change, React first updates a lightweight virtual representation of the DOM. It then compares it with the current DOM and only applies the necessary changes. This optimization leads to improved performance in complex applications.",
+    jsx:"JSX, a syntax extension for JavaScript used in React, allows developers to write UI components in a declarative manner. This makes the code more readable and expressive, as it closely resembles HTML. Declarative syntax simplifies the process of understanding, debugging, and maintaining code.",
+}

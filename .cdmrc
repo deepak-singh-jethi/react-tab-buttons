@@ -1,0 +1,7 @@
+tabs: ["src/App.jsx", "src/main.jsx"]
+run-button: bun run dev
+terminals:
+  [
+    "bun add vitest@0.32.2 jsdom@22.1.0 @testing-library/jest-dom@5.16.5 --dev",
+    "bun install && bun run dev",
+  ]
